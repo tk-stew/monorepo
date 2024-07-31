@@ -9,7 +9,7 @@ import ttkbootstrap as ttk
 # Constants
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
-TCP_SERVER_IP = "127.0.0.1"
+TCP_SERVER_IP = "192.169.1.69"
 TCP_SERVER_PORT = 6000
 PROGRESS_BAR_WIDTH = 20  # Adjust this value if the width of the progress bar changes
 
